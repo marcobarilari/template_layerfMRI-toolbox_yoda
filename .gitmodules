@@ -1,0 +1,4 @@
+[submodule "code/lib/layerfMRI-toolbox"]
+	path = code/lib/layerfMRI-toolbox
+	url = https://github.com/marcobarilari/layerfMRI-toolbox.git
+	datalad-url = https://github.com/marcobarilari/layerfMRI-toolbox.git
